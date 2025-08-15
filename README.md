@@ -49,7 +49,6 @@ SDL_VIDEODRIVER=KMSDRM ./build/vpet
 - 功能：
   - Wi-Fi 连接
   - [A-/D-Com](https://www.alphahub.site/guide) 兼容
-  - 通过互联网与原版 V-Pet 进行对战/合体（网关功能）
-  - 兼容原版 V-Pet（ESP-VPET vs 原版）
+  - 通过互联网与其他Pet 进行对战/合体（网关功能）
   - 蓝牙直连对战/合体
 - 可定制性：便于添加新宠物/进化线、修改规则和 UI。
