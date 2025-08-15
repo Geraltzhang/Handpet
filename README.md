@@ -1,4 +1,4 @@
-# Digimon V-Pet（Ubuntu / RK3528A）
+# HandPet（Ubuntu / RK3528A）
 
 这是一个在 Ubuntu（含 RK3528A SoC）上运行的数码宠物项目。
 
